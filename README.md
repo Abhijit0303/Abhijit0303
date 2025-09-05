@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
 <h3 align="center">Software Developer | Backend Enthusiast | Problem Solver</h3>
 
-- 🌱 I’m currently learning **DjangoRestFramework, Docker, kubernetes**
+- 🌱 I’m currently learning **SpringBoot, Docker, kubernetes**
 
 - 💬 Ask me about **Backend, Software Development, Cloud**
 
